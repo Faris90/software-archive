@@ -1,0 +1,1 @@
+https://github.com/Alex313031/thorium-legacy/releases/download/M122.0.6261.171/thorium_WIN32_SSE2_mini_installer.exe
