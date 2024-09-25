@@ -1,1 +1,2 @@
 https://github.com/Alex313031/thorium-legacy/releases/download/M122.0.6261.171/thorium_WIN32_SSE2_mini_installer.exe
+https://github.com/Skulltrail192/One-Core-API-Binaries/releases/download/3.0.5/One-Core-API-Binaries-3.0.5.zip
