@@ -1,0 +1,95 @@
+# style
+style.name: WindowsClassic
+style.author: Varun Dwivedi
+style.date: 19-Jul-2019
+
+# background
+rootCommand: bsetroot -solid #3A6EA5
+
+# window
+window.title.marginWidth: 3
+window.title.focus.appearance: raised gradient horizontal border
+window.title.focus.color: #0A246A
+window.title.focus.colorTo: #A6CAF0
+window.title.focus.borderColor: #D4D0C8
+window.title.focus.borderWidth: 3
+window.title.marginWidth: 3
+window.title.unfocus.appearance: raised gradient horizontal border
+window.title.unfocus.color: #808080
+window.title.unfocus.colorTo: #C0C0C0
+window.title.unfocus.borderColor: #D4D0C8
+window.title.unfocus.borderWidth: 3
+window.label.focus.appearance: parentrelative
+window.label.focus.textColor: #FFFFFF
+window.label.unfocus.appearance: parentrelative
+window.label.unfocus.textColor: #D4D0C8
+window.button.focus: raised solid
+window.button.focus.color: #D4D0C8
+window.button.focus.picColor: #000000
+window.button.unfocus: raised solid
+window.button.unfocus.color: #D4D0C8
+window.button.unfocus.picColor: #000000
+window.frame.borderWidth: 3
+window.frame.focus.borderColor: #D4D0C8
+window.frame.unfocus.borderColor: #D4D0C8
+window.handleHeight: 3
+window.handle.focus.appearance: raised solid
+window.handle.focus.backgroundColor: #D4D0C8
+window.handle.unfocus.appearance: raised solid
+window.handle.unfocus.backgroundColor: #D4D0C8
+window.grip.focus.appearance: raised solid
+window.grip.focus.backgroundColor: #D4D0C8
+window.grip.unfocus.appearance: raised solid
+window.grip.unfocus.backgroundColor: #D4D0C8
+window.fontWeight: bold
+window.alignment: left
+
+# toolbar
+toolbar.appearance: raise solid
+toolbar.backgroundColor: #D4D0C8
+toolbar.textColor: #000000
+toolbar.marginWidth: 3
+toolbar.alignment: left
+!toolbar.fontWeight: bold
+toolbar.label.appearance: raised solid
+toolbar.label.marginWidth: 4
+toolbar.label.backgroundColor: #D4D0C8
+toolbar.windowLabel.appearance: sunken solid
+toolbar.windowLabel.backgroundColor: #FFFFFF
+toolbar.button.appearance: flat solid
+toolbar.button.backgroundColor: #D4D0C8
+toolbar.button.foregroundColor: #000000
+toolbar.button.pressed.appearance: sunken solid
+toolbar.button.pressed.backgroundColor: #D4D0C8
+toolbar.button.pressed.foregroundColor: #000000
+toolbar.clock.appearance: sunken solid
+toolbar.clock.backgroundColor: #D4D0C8
+toolbar.clock.textColor: #000000
+
+# menu
+menu.title.marginWidth: 3
+menu.title.appearance: raised gradient horizontal
+menu.title.color: #0A246A
+menu.title.colorTo: #A6CAF0
+menu.title.textColor: #FFFFFF
+menu.title.fontWeight: bold
+menu.title.alignment: left
+
+menu.frame.marginWidth: 3
+menu.frame.appearance: raised solid
+menu.frame.backgroundColor: #D4D0C8
+menu.frame.textColor: #000000
+menu.frame.alignment: left
+
+menu.active.appearance: flat solid
+menu.active.backgroundColor: #0A246A
+menu.active.textColor: #FFFFFF
+menu.active.marginWidth: 4
+
+menu.bullet: arrow
+menu.bullet.position: right
+
+# slit
+slit.appearance: raised solid
+slit.backgroundColor: #D4D0C8
+slit.marginWidth: 5
