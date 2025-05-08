@@ -4,3 +4,5 @@ https://drive.google.com/file/d/1MO3HkFVvhEpxzx9JwBfQDcmTmixb1TKX/view?usp=shari
 http://www.mediafire.com/file/hffrt65tekf5d46/BlastFX.rar/file
 https://gitlab.com/es20490446e/exeCute
 https://mega.nz/file/fg4RBboZ#fe00QXuxtXUAJio-OCC5ceJ9IOJMSn1ssVZY0OIwjrQ
+
+sudo apt-get install clang-format clang-tidy clang-tools clang clangd libc++-dev libc++1 libc++abi-dev libc++abi1 libclang-dev libclang1 liblldb-dev libllvm-ocaml-dev libomp-dev libomp5 lld lldb llvm-dev llvm-runtime llvm python3-clang
